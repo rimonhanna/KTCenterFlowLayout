@@ -1,0 +1,5 @@
+KTCenterFlowLayout:
+  project: KTCenterFlowLayout.xcodeproj
+  sdks:
+  - iphonesimulator
+  - iphoneos
